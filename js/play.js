@@ -14,7 +14,7 @@
     var zombiesString = '';
     var zombiesText;
     var zMap;
-    var score; 
+    var score = 0; 
     var scoreString = '';
     var scoreText;
     var time = diceVal;
